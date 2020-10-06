@@ -1,6 +1,7 @@
 package git_test4;
 
 import java.util.Arrays;
+import java.util.Random;
 
 public class Main {
 
